@@ -1,0 +1,8 @@
+.checkBox {
+    width: 20px;
+    height: 20px;
+}
+
+.checkBox:hover {
+    cursor: pointer;
+}

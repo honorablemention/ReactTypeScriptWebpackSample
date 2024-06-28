@@ -1,0 +1,46 @@
+/*
+* ##NOTE: Should consolidate the styles here with the header style; since there is a bit of overlap
+*/
+
+.checkBox {
+    align-items: center;
+    height: 20px;
+    justify-content: center;
+    width: 20px;
+}
+
+.checkBox:hover {
+    cursor: pointer;
+}
+
+.rowContainer {
+    align-items: center;
+    display: grid;
+    grid-template-columns: 0.1fr 1fr 1fr 2fr 1fr;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px;
+}
+
+
+.rowContainer:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.row {
+    display: contents;
+    padding: 12px;
+}
+
+.rowSelected {
+    background-color: rgb(166, 201, 230);
+    border-left: solid 1px darkgray;
+    border-right: solid 1px darkgray;
+}
+
+.rowElement {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

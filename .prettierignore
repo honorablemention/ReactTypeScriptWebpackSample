@@ -1,0 +1,9 @@
+dist/
+.babelrc.json
+jest.config.js
+node_modules/
+package.json
+package-lock.json
+tsconfig.json
+webpack-config.js
+.gitignore

@@ -1,0 +1,20 @@
+.header {
+    align-items: center;
+    display: grid;
+    grid-template-columns: 0.1fr 1fr 1fr 2fr 1fr;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px;
+}
+
+.headerRow {
+    display: contents;
+    padding: 12px;
+}
+
+.headerCell {
+    text-align: center;
+};

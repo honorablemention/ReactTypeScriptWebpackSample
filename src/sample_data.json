@@ -1,0 +1,38 @@
+[
+  {
+    "name": "abc.exe",
+    "device": "Sonic",
+    "path": "\\Device1\\HarddiskVolume2\\Windows\\System32\\abc.exe",
+    "status": "scheduled"
+  },
+  {
+    "name": "def.exe",
+    "device": "Robotnik",
+    "path": "\\Device2\\HarddiskVolume2\\Windows\\System32\\def.exe",
+    "status": "available"
+  },
+  {
+    "name": "xyz.dll",
+    "device": "Tails",
+    "path": "\\Device3\\HDDVolume1\\Windows\\System32\\xyz.dll",
+    "status": "available"
+  },
+  {
+    "name": "tuv.sys",
+    "device": "PacMan",
+    "path": "\\Device4\\HDDVolume1\\Windows\\System32\\tuv.sys",
+    "status": "scheduled"
+  },
+  {
+    "name": "nop.dll",
+    "device": "MsPacMan",
+    "path": "\\Device2\\HDDVolume1\\Windows\\System32\\nop.dll",
+    "status": "scheduled"
+  },
+  {
+    "name": "abc123.exe",
+    "device": "SpaceInvader",
+    "path": "\\Device2\\HDDVolume1\\temp\\abc123.exe",
+    "status": "scheduled"
+  }
+]
