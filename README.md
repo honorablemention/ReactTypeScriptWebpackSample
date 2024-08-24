@@ -1,4 +1,4 @@
-Do a CTRL+F for "##NOTE" to easily view all of the comments in the project.
+A basic React TypeScript app built w/Wepack & Jest for unit tesetss
 
 ### RUN
 `$ npm i` <br>
